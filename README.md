@@ -1,2 +1,2 @@
 # PythonPatterns
-Design pattern excercices in python
+Design pattern exercices in pythno
